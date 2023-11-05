@@ -1,6 +1,6 @@
 {
-    "name": "DongDev Bot",
-    "version": "1.2.14",
+    "name": "Mirai-DongDev",
+    "version": "1.2.15",
     "description": "Mua File liên hệ Fb.",
     "main": "mirai.js",
     "scripts": {
@@ -10,9 +10,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "url": "git+https://github.com/dongdev06/miraiv2.git"
     },
-    "author": "D-Jukie",
+    "author": "DongDev",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
