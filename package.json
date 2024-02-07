@@ -1,16 +1,16 @@
 {
-    "name": "MiraiBypassD-Jukie",
+    "name": "vtaidz2010",
     "version": "1.2.14",
-    "description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
-    "main": "mirai.js",
+    "description": "Simple this Facebook Messenger Bot.",
+    "main": "main.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
-        "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
+        "test": "node --trace-warnings --use_strict --async-stack-traces main"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "url": "git+https://github.com/nguyenvantai2010/miraiv2"
     },
     "author": "D-Jukie",
     "license": "GPL-3.0",
